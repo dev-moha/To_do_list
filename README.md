@@ -2,9 +2,12 @@
 
 A new Flutter project.
 
-![](pic1.png)
-![](pic2.png)
-![](pic3.png)
+
+  <img src="pic1.png" width="300">
+  <img src="pic2.png" width="300">
+  <img src="pic3.png" width="300">
+
+
 
 ## Getting Started
 
@@ -14,6 +17,8 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
